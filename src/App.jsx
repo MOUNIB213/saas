@@ -1,4 +1,4 @@
-Enterimport { useState } from 'react';
+import { useState } from 'react';
 import { ArrowUpRight, Code, Terminal, X } from 'lucide-react';
 
 const navLinks = ['About Me', 'Services', 'Portfolio', 'Contact'];
